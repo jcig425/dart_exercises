@@ -6,6 +6,7 @@ void main() {
   // Calculate the total points based on activities completed and average score.
   double totalPoints = activitiesCompleted * averageScore;
 
+  // Check whether the student's average score meets the passing grade.
   bool isPassed = averageScore >= 75;
 
   print('Student Name: $studentName');
