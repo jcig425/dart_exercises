@@ -3,6 +3,7 @@ void main() {
   int activitiesCompleted = 7;
   double averageScore = 88.5;
 
+  // Calculate the total points based on activities completed and average score.
   double totalPoints = activitiesCompleted * averageScore;
 
   bool isPassed = averageScore >= 75;
