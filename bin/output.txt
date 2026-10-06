@@ -1,0 +1,6 @@
+PS C:\Users\4upho\Documents\DartProjects\dart_exercises> dart run bin/dart_exercises.dart
+Student Name: John
+Activities Completed: 7
+Average Score: 88.5
+Total Points: 619.5
+Passed: true
